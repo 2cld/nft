@@ -12,6 +12,8 @@
 - KnownOrigin [https://knownorigin.io/](https://knownorigin.io/)
 - Foundation [https://foundation.app/](https://foundation.app/)
 - Ephimera ??
+- NFT on coindesk [How to Create, Buy and Sell NFTs](https://www.coindesk.com/how-to-create-buy-sell-nfts)
+- Gas Fees [https://www.gasnow.org/](https://www.gasnow.org/)
 
 ## Create NFT
 <iframe src="https://www.youtube.com/embed/CFD_8oDxw1k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -32,9 +34,19 @@
 9. Verity Meta Mask wallet is [connected tc08:56](https://youtu.be/CFD_8oDxw1k?t=536).
 10. Click on "Create Item". This uploads files and begins the Mint Token.
 11. Click "Start" on [Mint Token tc09:34](https://youtu.be/CFD_8oDxw1k?t=574) which will bring up Meta Mask to pay for the gas fees.
-12. In Meta Mask you can edit to [control gas fees tc10:03](https://youtu.be/CFD_8oDxw1k?t=603)
-13. List on [OpenSea tc11:58](https://youtu.be/CFD_8oDxw1k?t=718)
-14. Assets
+
+## Photo Artist creating his NFT
+<iframe src="https://www.youtube.com/embed/d1VodYuqOlA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- Artist colabs and social media in NFT community [tc19:37](https://youtu.be/d1VodYuqOlA?t=1177)
+- Gas Fees [tc22:49](https://youtu.be/d1VodYuqOlA?t=1369)
+- Pricing [tc25:20](https://youtu.be/d1VodYuqOlA?t=1520) cost over $50 just to mint
+- Selling work [tc28:11](https://youtu.be/d1VodYuqOlA?t=1691)
+
+## Another example
+<iframe src="https://www.youtube.com/embed/Gjo1hlIey9g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+13. In Meta Mask you can edit to [control gas fees tc10:03](https://youtu.be/CFD_8oDxw1k?t=603)
+14. List on [OpenSea tc11:58](https://youtu.be/CFD_8oDxw1k?t=718)
+15. Assets
     - [https://opensea.io/](https://opensea.io/assets/0x60f80121c31a0d46b5279700f9df786054aa5ee5/144650)
     - [https://rarible.com/](https://rarible.com/token/0x60f80121c31a0d46b5279700f9df786054aa5ee5:144650:0xe54d1151624f2da5dbbef7c426f266458b732733)
 
